@@ -43,30 +43,6 @@ The challenge requires React on the frontend, Express/Loopback/NestJS on the bac
 
 The required functionality, validations, filtering, sorting, ratings, and role-specific dashboards are implemented according to the supplied challenge. fileciteturn0file0L13-L36
 
-## Project structure
-
-roxiler-rating-platform/
-├── backend/
-│   ├── src/
-│   │   ├── middleware/
-│   │   ├── routes/
-│   │   ├── db.js
-│   │   ├── server.js
-│   │   └── seed.js
-│   ├── .env.example
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── api.js
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   │   └── styles.css
-│   ├── .env.example
-│   └── package.json
-└── README.md
-
 ## 1. Database setup
 
 Create a MySQL database:

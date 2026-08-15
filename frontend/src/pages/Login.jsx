@@ -38,11 +38,6 @@ export default function Login() {
 
       <p className="center">New user? <Link to="/register">Create an account</Link></p>
 
-      <div className="demo">
-        <strong>Demo:</strong><br />
-        Admin: admin@roxiler.local / Admin@123<br />
-        Owner: owner@roxiler.local / Owner@123
-      </div>
     </section>
   );
 }

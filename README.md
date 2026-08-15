@@ -2,6 +2,31 @@
 
 Full-stack implementation of the Roxiler Systems FullStack Intern Coding Challenge.
 
+## Screenshots
+
+### Login
+
+![Login Page](docs/screenshots/Login_Page.png)
+
+### Register
+
+![Registration Page](docs/screenshots/Registration_Page.png)
+
+### Admin Dashboard
+
+![Admin Dashboard 1](docs/screenshots/Admin_Dashboard_1.png)
+
+
+![Admin Dashboard 2](docs/screenshots/Admin_Dashboard_2.png)
+
+### Normal User Dashboard
+
+![User Dashboard](docs/screenshots/User_Rateing_Dashboard.png)
+
+### Store Owner Dashboard
+
+![Owner Dashboard](docs/screenshots/Owner_Dashboard.png)
+
 ## Stack
 - Frontend: React + Vite
 - Backend: Express.js
@@ -90,8 +115,12 @@ npm run seed
 
 Demo accounts:
 
-- Admin: `admin@roxiler.local` / `Admin@123`
-- Store Owner: `owner@roxiler.local` / `Owner@123`
+- Admin: 
+
+    Email: `admin@roxiler.local`, Password: `Admin@123`
+- Store Owner:
+
+    Email:  `owner@roxiler.local`, Password: `Owner@123`
 
 A normal user can be registered from the UI.
 

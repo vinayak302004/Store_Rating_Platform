@@ -1,4 +1,4 @@
-# Roxiler Systems - Store Rating Platform
+# Store Rating Platform
 
 Full-stack implementation of the Roxiler Systems FullStack Intern Coding Challenge.
 

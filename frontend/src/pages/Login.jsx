@@ -24,7 +24,7 @@ export default function Login() {
   return (
     <section className="auth-card">
       <h1>Welcome back</h1>
-      <p className="muted">Sign in to the Roxiler Store Rating Platform.</p>
+      <p className="muted">Sign in to the Store Rating Platform.</p>
 
       {error && <div className="error">{error}</div>}
 

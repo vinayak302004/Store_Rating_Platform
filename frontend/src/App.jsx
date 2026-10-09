@@ -48,7 +48,7 @@ function Layout({ children }) {
     <div className="app">
       {user && (
         <header className="topbar">
-          <Link to="/" className="brand">Roxiler Ratings</Link>
+          <Link to="/" className="brand">Store Rating Platform</Link>
           <nav>
             <span className="role-pill">{user.role}</span>
             {user.role === "USER" && <Link to="/stores">Stores</Link>}
